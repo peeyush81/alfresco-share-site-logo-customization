@@ -14,12 +14,12 @@ How do you install this extension?
 
 ===Alfresco 4.0.x===
 
- # Copy customise-site-logo-share-40x/target/customise-site-share-{VERSION}-jar-with-dependencies.jar to {TOMCAT_HOME}/webapps/share/WEB_INF/lib
+ * Copy customise-site-logo-share-40x/target/customise-site-share-{VERSION}-jar-with-dependencies.jar to {TOMCAT_HOME}/webapps/share/WEB_INF/lib
 
 ===Alfresco 4.1.x===
 
- # Copy customise-site-logo-share-41x/target/customise-site-share-{VERSION}-jar-with-dependencies.jar to {TOMCAT_HOME}/webapps/share/WEB_INF/lib
+ * Copy customise-site-logo-share-41x/target/customise-site-share-{VERSION}-jar-with-dependencies.jar to {TOMCAT_HOME}/webapps/share/WEB_INF/lib
 
 ===Alfresco 4.2===
 
- # Copy customise-site-logo-share-42/target/customise-site-share-{VERSION}.jar to {TOMCAT_HOME}/webapps/share/WEB_INF/lib
+ * Copy customise-site-logo-share-42/target/customise-site-share-{VERSION}.jar to {TOMCAT_HOME}/webapps/share/WEB_INF/lib
