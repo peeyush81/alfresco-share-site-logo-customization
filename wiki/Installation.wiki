@@ -11,5 +11,3 @@ How do you install this extension?
  # For Alfresco 4.0.x, copy customise-site-logo-share-40x/target/customise-site-share-{VERSION}-jar-with-dependencies.jar to {TOMCAT_HOME}/webapps/share/WEB_INF/lib
  # For Alfresco 4.1.x, copy customise-site-logo-share-41x/target/customise-site-share-{VERSION}-jar-with-dependencies.jar to {TOMCAT_HOME}/webapps/share/WEB_INF/lib
  # For Alfresco 4.2, copy customise-site-logo-share-42/target/customise-site-share-{VERSION}.jar to {TOMCAT_HOME}/webapps/share/WEB_INF/lib
-
-The project is currently being ported for Alfresco 4.0 and 4.1.
