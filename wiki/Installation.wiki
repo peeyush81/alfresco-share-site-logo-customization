@@ -7,7 +7,7 @@ How do you install this extension?
  # Check out the source code
  # At the root of the project, run "mvn clean package"
  # Copy customise-site-logo-alfresco/target/customise-site-alfresco-{VERSION}.jar to {TOMCAT_HOME}/webapps/alfresco/WEB_INF/lib
- # For Alfresco 3.*, copy customise-site-logo-share-3/target/customise-site-share-[VERSION].jar to [TOMCAT_HOME]/webapps/share/WEB_INF/lib
- # For Alfresco 4.2, copy customise-site-logo-share-42/target/customise-site-share-[VERSION].jar to [TOMCAT_HOME]/webapps/share/WEB_INF/lib
+ # For Alfresco 3.*, copy customise-site-logo-share-3/target/customise-site-share-{VERSION}.jar to {TOMCAT_HOME}/webapps/share/WEB_INF/lib
+ # For Alfresco 4.2, copy customise-site-logo-share-42/target/customise-site-share-{VERSION}.jar to {TOMCAT_HOME}/webapps/share/WEB_INF/lib
 
 The project is currently being ported for Alfresco 4.0 and 4.1.
